@@ -1,0 +1,34 @@
+{
+    "name": "dalez/flarum-identityagent",
+    "description": "Switch user without signing out",
+    "keywords": [
+        "extension",
+        "flarum", "login", "realtime"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DaleZ"
+        }
+    ],
+    "require": {
+        "flarum/core": "^1.0.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "DaleZ\\IdentityAgent\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "IdentityAgent",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-exchange-alt",
+                "backgroundColor": "#114514",
+                "color": "#fff"
+            }
+        }
+    }
+}
