@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of dalez/flarum-identityagent.** Not for installation: use [Packagist](https://packagist.org/packages/dalez/flarum-identityagent) or the [upstream repository](https://github.com/DellZHackintosh/flarum-identityagent).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/dalez-flarum-identityagent/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.3`
+**2** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/dalez-flarum-identityagent/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.3`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2025-01-04 | `^1.0.3` | [Browse](https://github.com/flarchive/dalez-flarum-identityagent/tree/archive/v1.0.0) |
+| `v1.0.0-beta` | 2024-08-18 | `^1.0.3` | [Browse](https://github.com/flarchive/dalez-flarum-identityagent/tree/archive/v1.0.0-beta) |
 
 Catalog entry: [packages/dalez-flarum-identityagent.json](https://github.com/flarchive/archive-index/blob/main/packages/dalez-flarum-identityagent.json)
 
